@@ -1,0 +1,50 @@
+*,*:before,*after{
+    box-sizing: inherit;
+}
+
+.main{
+	width: 100%;
+	height: 732px;
+	/*border: solid red 1px;*/
+	background-image: url(https://stmed.net/sites/default/files/pizza-wallpapers-28292-7035689.jpg);
+	background-size: cover;
+	background-position: top center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+}
+
+.login{
+	width: 350px;
+	height: 350px;
+	padding: 50px;
+	border-radius: 25px;
+    background-color: rgba(250,244,227,0.5);
+    font-family: 'Ubuntu', sans-serif; 
+}
+
+.main_register{
+	width: 100%;
+	height: 732px;
+	/*border: solid red 1px;*/
+	background-image: url(https://wpblink.com/sites/default/files/wallpaper/food/68900/vegetables-wallpapers-hd-68900-8055712.png);
+	background-size: cover;
+	background-position: top center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+}
+
+.register{
+	width: auto;
+	height: auto;
+	padding: 50px;
+	border-radius: 25px;
+    background-color: rgba(250,244,227,0.7);
+	font-family: 'Ubuntu', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

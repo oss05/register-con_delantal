@@ -1,0 +1,39 @@
+.header{
+	width: 100%;
+	height: auto;
+    /*border: solid blue 1px;*/
+}
+
+.titulo{
+	color: white;
+	font-size: 30px;	
+}
+
+.nav{ 
+	height: 80px;
+	padding-left: 50px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.imagen_navbar{
+	-webkit-filter: invert(100%);
+	width: 50px;
+	height: 50px;
+    margin-left:  10px;
+    margin-bottom: 15px;
+}
+
+.icon_navbar{
+	margin-right: 10px;
+	/* border: solid 1px green; */
+}
+
+.icon_navbar2{
+	margin-right: 5px;
+	/* border: solid 1px green; */
+}
+
+i {
+	margin-right:8px;
+	/* border: solid 1px blue; */
+}
